@@ -1,3 +1,17 @@
-/playanimation 名字 animation.player.sleeping default 100000
+先打这个
+/gamemode creative
+开创造
+然后
+/give @s minecraft:command_block
+背包里会有命令方块
+放到地上
+然后打开
+在命令方块的输入框打这个
+/item replace entity 烤串游戏名 with minecraft:turtle_helmet{display:{Name:"[{\"text\":\"绿帽子\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]"},Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
+注意把烤串游戏名改成他的名字
 
-/tp 名字 ~~1~和clone ~~-1~ ~~-1~ ~~1~
+然后在命令方块上放个按钮按一下
+烤串就会有绿帽子了
+只能指令拿掉的
+拿掉的指令
+/item replace entity 烤串游戏名 with minecraft:turtle_helmet
