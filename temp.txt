@@ -1,0 +1,1 @@
+/replaceitem entity @p[c=-1] slot.armor.head 0 turtle_helmet 1 0 {display:{Name:"绿帽子",Lore:["专属小绿帽"]},Unbreakable:1b,ench:[{id:27s,lvl:1s}]}
