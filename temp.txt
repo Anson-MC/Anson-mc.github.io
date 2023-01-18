@@ -1,1 +1,3 @@
-/replaceitem entity @p[c=-1] slot.armor.head 0 turtle_helmet 1 0 {display:{Name:"绿帽子",Lore:["专属小绿帽"]},Unbreakable:1b,ench:[{id:27s,lvl:1s}]}
+/playanimation 名字 animation.player.sleeping default 100000
+
+/tp 名字 ~~1~和clone ~~-1~ ~~-1~ ~~1~
