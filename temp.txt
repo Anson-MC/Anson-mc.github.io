@@ -1,17 +1,24 @@
-先打这个
-/gamemode creative
-开创造
-然后
-/give @s minecraft:command_block
-背包里会有命令方块
-放到地上
-然后打开
-在命令方块的输入框打这个
-/item replace entity 烤串游戏名 with minecraft:turtle_helmet{display:{Name:"[{\"text\":\"绿帽子\",\"bold\":false,\"italic\":false,\"underlined\":false,\"strikethrough\":false,\"obfuscated\":false}]"},Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
-注意把烤串游戏名改成他的名字
 
-然后在命令方块上放个按钮按一下
-烤串就会有绿帽子了
-只能指令拿掉的
-拿掉的指令
-/item replace entity 烤串游戏名 with minecraft:turtle_helmet
+Introduction:
+The subject of cosmetic surgery has become increasingly popular in recent times, particularly as the society's obsession with physical appearance has become more intense.  Cosmetic surgery seems to have emerged as a solution to help people conform to the unrealistic societal standards of beauty.  However, it is essential to examine the deeper issue behind cosmetic surgery, which is the true meaning of beauty and how each one can achieve it.  This essay explores the relationship between cosmetic surgery and true beauty, and it highlights the factors that influence societal beauty standards and promotes positive body image.
+
+Definition of Beauty:
+The concept of beauty has evolved over the years and is now highly subjective.  Social or cultural factors largely influence it, and the idea of beauty is perpetuated through media, social media, and advertising.  Beauty standards vary across cultures and time, a fact that indicates that what is considered beautiful purely depends on the society at the time.  In this context, beauty is not an objective measure but is a subjective one.
+
+Understanding Cosmetic Surgery:
+Cosmetic surgery is a medical procedure that enhances an individual's body in specific ways or alters one's appearance.  In most cases, people undergo cosmetic surgery to achieve perfection in their physical appearance.  Often, cosmetic surgery can enhance self-esteem, and individuals report feeling more confident and self-assured when they undergo such procedures.
+
+Society's Influence on Beauty Ideals:
+Media, advertising, and social media play a role in shaping societal standards of beauty.  Many individuals are influenced by images in magazines, movies, and beauty advertisements.  Consequently, the unattainable beauty expectations of society, particularly for women, create self-esteem issues, and this contributes to the popularity of cosmetic surgery.  The desire to fit into the societal beauty standards has led to a rise in cosmetic surgeries in recent years.
+
+The Risks and Limitations of Cosmetic Surgery:
+Cosmetic surgery is a major surgery with potential risks and complications, such as scarring, nerve damage, and infection.  It is crucial to research and be well informed before making any decisions regarding cosmetic surgery.  Furthermore, cosmetic surgery has its limitations in achieving true beauty and self-acceptance.  The focus should shift to cultivating inner qualities that make an individual truly beautiful.
+
+Redefining True Beauty:
+True beauty comes from within, emanating from inner qualities, such as kindness, compassion, and individuality.  Self-acceptance and self-confidence are significant aspects of true beauty.  Celebrating diversity, uniqueness, and focusing on developing traits that make one unique is essential.
+
+Promoting Positive Body Image:
+Promoting positive body image can be through self-esteem boosting practices such as caring for one's body and fostering an accepting body image.  One can also develop self-expression in the form of fashion, art, or hold conversations that promote positive body image, improving confidence in their look.
+
+Conclusion:
+True beauty comes from within, and while cosmetic surgery may enhance physical appearance, it does not guarantee self-acceptance.  It is essential to focus on developing inner qualities, accepting and celebrating individuality, practicing self-care, and promoting positive body image.  The societal beauty standards can be stifling and unattainable, making body image issues quite prevalent, but inner beauty qualities make people truly beautiful.
